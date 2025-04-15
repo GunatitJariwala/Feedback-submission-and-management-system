@@ -1,0 +1,1 @@
+The aim of this project was to design and implement a Feedback Submission and Management System for a website to improve user engagement and gather valuable insights. This system allows website visitors to submit feedback and enables administrators to manage, analyze, and respond to that feedback efficiently.
